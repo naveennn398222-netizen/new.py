@@ -1,0 +1,8 @@
+um=input("enter your name:")
+usn=input("enter your USN:")
+div=input("enter your division:")
+print(f"name:{name}")
+print(f"usn:{USN}")
+print(f"div:{division}")
+print("student")
+print("welcome")
